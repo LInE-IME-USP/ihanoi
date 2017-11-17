@@ -25,7 +25,7 @@ Free interactive solutions to teach and learn.
 
 ---
 
-Leo^nidas de Oliveira Branda~o (LInE coordinator - developer of iHanoi)
-Computer Science Department at Institute of Statistics and Mathematics
-University of Sa~o Paulo
+Leo^nidas de Oliveira Branda~o (LInE coordinator - developer of iHanoi)<br/>
+Computer Science Department at Institute of Statistics and Mathematics<br/>
+University of Sa~o Paulo<br/>
 http://www.ime.usp.br/~leo
